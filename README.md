@@ -16,6 +16,8 @@ I am a passionate developer dedicated to building scalable and high-performance 
 ### 🛠 Tech Stack
 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/2055f1aa-50d9-41f7-a418-16fd738ff49f" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d925052a-c735-4835-8c94-5da4664238f0" />
+
 
 
 ---
