@@ -1,6 +1,14 @@
-<img src="https://lottie.host/9131db48-b361-4ea8-b512-253ca67d5083/GrEnvGYBtS.lottie"
-  height="200px" width="200px"
-  /> 
+<script
+  src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.8.11/dist/dotlottie-wc.js"
+  type="module"
+></script>
+
+<dotlottie-wc
+  src="https://lottie.host/506d4963-99f6-4dc6-82ec-712a6f411507/DgLl65XSg1.lottie"
+  style="width: 300px;height: 300px"
+  autoplay
+  loop
+></dotlottie-wc>
 
 
 
