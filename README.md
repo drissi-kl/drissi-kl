@@ -1,4 +1,4 @@
-<img src="https://pngtree.com/freepng/focused-programmer-coding-on-laptop-with-neural-network-connection-ai-development_23369234.html" 
+<img src="https://png.pngtree.com/png-vector/20251126/ourlarge/pngtree-focused-programmer-coding-on-laptop-with-neural-network-connection-ai-development-png-image_18066203.webp"
   height="200px" width="200px"
   />
 
