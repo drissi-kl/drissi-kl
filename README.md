@@ -22,9 +22,21 @@ I am a passionate developer dedicated to building scalable and high-performance 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/6b88a80a-bd4d-4545-972a-7e24da3338d9" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/12526e7a-bb1b-427b-94b9-3da0950714e9" />
 
+<h3>Database: </h3>
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/6df15bf5-a513-4089-a67b-ac41c25763bf" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/7e984192-01b9-4447-93c5-6239a9bfe4bf" />
+
+<h3>Tools: </h3>
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/13a892c7-3781-4aac-8d55-cb0abcb5f308" />
+
+
+
+<h3>I am learnign:</h3>
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/52d3712d-af31-4501-836f-5ee8665c1f2c" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/200787bf-b595-4efa-b389-0530fbc81bf7" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e1e59dcf-981b-4ef4-9cbb-836003cecc5d" />
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/ac2cbd39-3e33-4123-8eee-601d2449311e" />
+
 
 
 
