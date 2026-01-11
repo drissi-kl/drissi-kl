@@ -17,6 +17,14 @@ I am a passionate developer dedicated to building scalable and high-performance 
 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/2055f1aa-50d9-41f7-a418-16fd738ff49f" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d925052a-c735-4835-8c94-5da4664238f0" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/99118499-307a-480b-8e19-41bc13e7f7c0" />
+
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/6b88a80a-bd4d-4545-972a-7e24da3338d9" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/12526e7a-bb1b-427b-94b9-3da0950714e9" />
+
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/52d3712d-af31-4501-836f-5ee8665c1f2c" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/200787bf-b595-4efa-b389-0530fbc81bf7" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e1e59dcf-981b-4ef4-9cbb-836003cecc5d" />
 
 
 
