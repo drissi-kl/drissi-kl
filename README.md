@@ -1,14 +1,9 @@
-<script
-  src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.8.11/dist/dotlottie-wc.js"
-  type="module"
-></script>
+<img
+  src="https://lottie.host/embed/506d4963-99f6-4dc6-82ec-712a6f411507/DgLl65XSg1.lottie"
+  height="200px" width="200px"
+/>
 
-<dotlottie-wc
-  src="https://lottie.host/506d4963-99f6-4dc6-82ec-712a6f411507/DgLl65XSg1.lottie"
-  style="width: 300px;height: 300px"
-  autoplay
-  loop
-></dotlottie-wc>
+
 
 
 
