@@ -27,7 +27,7 @@ I am a passionate developer dedicated to building scalable and high-performance 
 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/13a892c7-3781-4aac-8d55-cb0abcb5f308" />
 
-[//]: drissi abderrahmane
+// drissi abderrahmane
 
 
 <h3>I am learnign:</h3>
