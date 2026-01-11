@@ -1,3 +1,10 @@
+<img src="https://pngtree.com/freepng/focused-programmer-coding-on-laptop-with-neural-network-connection-ai-development_23369234.html" 
+  height="200px" width="200px"
+  />
+
+
+
+
 # Hi there, I'm Drissi Abderrahmane 👋
 ### Full-Stack Web Developer | React.js & Laravel Specialist
 
