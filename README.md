@@ -111,6 +111,10 @@ I am a passionate developer dedicated to building scalable and high-performance 
       <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="postman" />
       <br>Postman
     </td>
+    <td align="center" width="96" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=obsidian" width="40" height="40" alt="obsidian" />
+      <br>Obsidian
+    </td>
   </tr>
 </table>
     
