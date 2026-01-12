@@ -16,9 +16,7 @@ I am a passionate developer dedicated to building scalable and high-performance 
 ### 🛠 Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,reactjs" />
-  </a>
 </p>
 ---
 
