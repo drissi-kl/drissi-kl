@@ -15,7 +15,7 @@ I am a passionate developer dedicated to building scalable and high-performance 
 
 ### 🛠 Tech Stack
 
-<table>
+<table border=0>
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
