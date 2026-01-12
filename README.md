@@ -14,7 +14,7 @@ I am a passionate developer dedicated to building scalable and high-performance 
 ---
 
 <div>
-  <div width="96" style="display: flex; flex-direction: column; justify-content: center">
+  <div width="96" style="background-color: red">
     <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
     <p>ReactJs</p>
   </div>
