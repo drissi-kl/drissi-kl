@@ -14,6 +14,7 @@ I am a passionate developer dedicated to building scalable and high-performance 
 ---
 
 ### 🛠 Technologies & Tools
+## Front End
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td align="center" width="96" style="border: none;">
@@ -41,101 +42,21 @@ I am a passionate developer dedicated to building scalable and high-performance 
       <br>React
     </td>
     <td align="center" width="96" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="Laravel" />
-      <br>Laravel
-    </td>
-    <td align="center" width="96" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="express" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=debian" width="40" height="40" alt="Debian" />
-      <br>Debian
-    </td>
-    <td align="center" width="96" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="C" />
-      <br>C
-    </td>
-    <td align="center" width="96" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="git" />
-      <br>Git
-    </td>
-    <td align="center" width="96" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="github" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="linux" />
-      <br>Linux
-    </td>
-    <td align="center" width="96" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="mongodb" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=nginx" width="40" height="40" alt="nginx" />
-      <br>NginX
-    </td>
-    <td align="center" width="96" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="nextjs" />
-      <br>NextJs
-    </td>
-    <td align="center" width="96" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="nodejs" />
-      <br>NodeJs
-    </td>
-    <td align="center" width="96" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="php" />
-      <br>PHP
-    </td>
-    <td align="center" width="96" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="nextjs" />
-      <br>NextJs
-    </td>
-    <td align="center" width="96" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=pinia" width="40" height="40" alt="pinia" />
-      <br>Pinia
-    </td>
-    <td align="center" width="96" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="postman" />
-      <br>Postman
-    </td>
-    <td align="center" width="96" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=pinia" width="40" height="40" alt="pinia" />
-      <br>Pinia
-    </td>
-    <td align="center" width="96" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=pinia" width="40" height="40" alt="pinia" />
-      <br>Pinia
-    </td>
-    <td align="center" width="96" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="py" />
-      <br>Python
-    </td>
-    <td align="center" width="96" style="border: none;">
       <img src="https://skillicons.dev/icons?i=redux" width="40" height="40" alt="redux" />
       <br>Redux
     </td>
     <td align="center" width="96" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="py" />
-      <br>Python
+      <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="nextjs" />
+      <br>NextJs
     </td>
     <td align="center" width="96" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="py" />
-      <br>Python
+      <img src="https://skillicons.dev/icons?i=vue" width="40" height="40" alt="vue" />
+      <br>VueJs
     </td>
-
-
-    
-    
+    <td align="center" width="96" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=pinia" width="40" height="40" alt="pinia" />
+      <br>Pinia
+    </td>
   </tr>
 </table>
 
