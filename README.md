@@ -17,17 +17,25 @@ I am a passionate developer dedicated to building scalable and high-performance 
 
 <table>
   <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="html" />
-      <p>HTML</p>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
-      <p>CSS</p>
-    </td>
-    <td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
-      <p>ReactJs</p>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="Laravel" />
+      <br>Laravel
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" />
+      <br>MySQL
     </td>
   </tr>
 </table>
