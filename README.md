@@ -13,66 +13,34 @@ I am a passionate developer dedicated to building scalable and high-performance 
 
 ---
 
+### 🛠 Tech Stack
+
 <div>
+  <div width="96" align="center">
+    <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="html" />
+    <p>HTML</p>
+  </div>
+
+  <div width="96" align="center">
+    <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
+    <p>CSS</p>
+  </div>
+  
   <div width="96" align="center">
     <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
     <p>ReactJs</p>
   </div>
+
+  
 </div>
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="Laravel" />
-      <br>Laravel
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" />
-      <br>MySQL
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠 Tech Stack
-
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/2055f1aa-50d9-41f7-a418-16fd738ff49f" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d925052a-c735-4835-8c94-5da4664238f0" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/99118499-307a-480b-8e19-41bc13e7f7c0" />
-
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/6b88a80a-bd4d-4545-972a-7e24da3338d9" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/12526e7a-bb1b-427b-94b9-3da0950714e9" />
-
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/6df15bf5-a513-4089-a67b-ac41c25763bf" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/7e984192-01b9-4447-93c5-6239a9bfe4bf" />
-
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/13a892c7-3781-4aac-8d55-cb0abcb5f308" />
-
-
-
-<h3>I am learnign:</h3>
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/52d3712d-af31-4501-836f-5ee8665c1f2c" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/200787bf-b595-4efa-b389-0530fbc81bf7" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/e1e59dcf-981b-4ef4-9cbb-836003cecc5d" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ac2cbd39-3e33-4123-8eee-601d2449311e" /> 
-
-
 
 
 ---
+
+
+
+
 
 ### 📂 Featured Projects
 
