@@ -162,7 +162,7 @@ I am a passionate developer dedicated to building scalable and high-performance 
 
 ### 📂 Featured Projects
 
-#### 🌟 Seren
+<img src="assets/qrcode.svg" width="50" alt="Developer Illustration"> #### PointageApp
 *A comprehensive web application built with React and Laravel.*
 - **Role:** Full-Stack Developer
 - **Tech:** React.js, Laravel API, Tailwind CSS.
