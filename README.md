@@ -14,7 +14,6 @@ I am a passionate developer dedicated to building scalable and high-performance 
 ---
 
 ### 🛠 Technologies & Tools
-
 ## Front End
 <table border="0" frame="void" rules="none">
   <tr>
@@ -61,11 +60,97 @@ I am a passionate developer dedicated to building scalable and high-performance 
   </tr>
 </table>
 
+## Back End
+<table border="0" frame="void" rules="none">
+  <tr>
+    <td align="center" width="96" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="php" />
+      <br>PHP
+    </td>
+    <td align="center" width="96" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="Laravel" />
+      <br>Laravel
+    </td>
+    <td align="center" width="96" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="nodejs" />
+      <br>NodeJs
+    </td>
+    <td align="center" width="96" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="express" />
+      <br>Express
+    </td>    
+  </tr>
+</table>
+
+## Database
+<table border="0" frame="void" rules="none">
+  <tr>
+    <td align="center" width="96" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="mongodb" />
+      <br>MongoDB
+    </td>    
+  </tr>
+</table>
+
+## Tools
+<table border="0" frame="void" rules="none">
+  <tr>
+    <td align="center" width="96" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="git" />
+      <br>Git
+    </td>
+    <td align="center" width="96" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="github" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="postman" />
+      <br>Postman
+    </td>
+  </tr>
+</table>
+    
+## I am learning
+<table border="0" frame="void" rules="none">
+  <tr>
+    <td align="center" width="96" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="96" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=debian" width="40" height="40" alt="Debian" />
+      <br>Debian
+    </td>
+    <td align="center" width="96" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=nginx" width="40" height="40" alt="nginx" />
+      <br>NginX
+    </td>
+  </tr>
+</table> 
+
+## Other
+<table border="0" frame="void" rules="none">
+  <tr>
+    <td align="center" width="96" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="C" />
+      <br>C
+    </td>
+    <td align="center" width="96" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=py" width="40" height="40" alt="py" />
+      <br>Python
+    </td>
+  </tr>
+</table>
+    
 ---
-
-
-
-
 
 ### 📂 Featured Projects
 
