@@ -37,6 +37,8 @@ I am a passionate developer dedicated to building scalable and high-performance 
       <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
       <br>JavaScript
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
       <br>React
@@ -49,6 +51,8 @@ I am a passionate developer dedicated to building scalable and high-performance 
       <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" />
       <br>Next.js
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vue" width="40" height="40" alt="Vue.js" />
       <br>Vue.js
