@@ -13,6 +13,13 @@ I am a passionate developer dedicated to building scalable and high-performance 
 
 ---
 
+<div>
+  <div width="96">
+    <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
+    <p>ReactJs</p>
+  </div>
+</div>
+
 <table>
   <tr>
     <td align="center" width="96">
