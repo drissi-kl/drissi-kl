@@ -1,4 +1,3 @@
-<iframe src="https://lottie.host/embed/506d4963-99f6-4dc6-82ec-712a6f411507/DgLl65XSg1.lottie"></iframe>
 
 
 
