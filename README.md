@@ -15,26 +15,25 @@ I am a passionate developer dedicated to building scalable and high-performance 
 
 ### 🛠 Tech Stack
 
-<div>
-  <span width="96" align="center">
-    <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="html" />
-    <p>HTML</p>
-  </span>
+<table>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="html" />
+      <p>HTML</p>
+    </td>
 
-  <span width="96" align="center">
-    <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
-    <p>CSS</p>
-  </span>
-  
-  <span width="96" align="center">
-    <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
-    <p>ReactJs</p>
-  </span>
+    <td>
+      <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
+      <p>CSS</p>
+    </td>
 
-  
-</div>
-
-
+    <td>
+      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
+      <p>ReactJs</p>
+    </td>
+    
+  </tr>
+</table>
 
 ---
 
