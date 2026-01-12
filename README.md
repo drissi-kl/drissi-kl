@@ -162,24 +162,11 @@ I am a passionate developer dedicated to building scalable and high-performance 
 
 ### 📂 Featured Projects
 
-<img src="assets/qrcode.svg" width="50" alt="Developer Illustration"> #### PointageApp
+<img src="assets/qrcode.svg" width="20" alt="Developer Illustration"> #### PointageApp
 *A comprehensive web application built with React and Laravel.*
 - **Role:** Full-Stack Developer
-- **Tech:** React.js, Laravel API, Tailwind CSS.
+- **Tech:** Tailwind CSS, React.js, Laravel API, MySQL.
 
-#### 🏗 Tkr
-*An innovative project focused on [Add a brief description here, e.g., tracking or automation].*
-- **Role:** Lead Developer
-- **Tech:** PHP, Laravel, JavaScript.
 
 ---
 
-### 📊 GitHub Stats
-![Drissi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-### 📫 Connect with me:
-[ ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white) ](YOUR_LINKEDIN_URL)
-[ ![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white) ](mailto:your-email@example.com)
