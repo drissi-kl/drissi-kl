@@ -17,6 +17,14 @@ I am a passionate developer dedicated to building scalable and high-performance 
 <table style="border-collapse: collapse; border: none;">
   <tr>
     <td align="center" width="96" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96" style="border: none;">
       <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
       <br>React
     </td>
