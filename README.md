@@ -13,11 +13,8 @@ I am a passionate developer dedicated to building scalable and high-performance 
 
 ---
 
-### 🛠 Tech Stack
-
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,reactjs" />
-</p>
+### 🛠 Technologies & Tools
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,vue)](https://skillicons.dev)
 ---
 
 
