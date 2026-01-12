@@ -162,7 +162,7 @@ I am a passionate developer dedicated to building scalable and high-performance 
 
 ### 📂 Featured Projects
 
-<img src="assets/qrcode.svg" width="20" alt="Developer Illustration"> #### PointageApp
+<img src="assets/qrcode.svg" width="20" alt="Developer Illustration">  **PointageApp**
 *A comprehensive web application built with React and Laravel.*
 - **Role:** Full-Stack Developer
 - **Tech:** Tailwind CSS, React.js, Laravel API, MySQL.
