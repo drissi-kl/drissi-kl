@@ -14,7 +14,31 @@ I am a passionate developer dedicated to building scalable and high-performance 
 ---
 
 ### 🛠 Technologies & Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,javascript,react,vue)](https://skillicons.dev)
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td align="center" width="96" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="Laravel" />
+      <br>Laravel
+    </td>
+    <td align="center" width="96" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL" />
+      <br>MySQL
+    </td>
+  </tr>
+</table>
+
 ---
 
 
