@@ -16,20 +16,20 @@ I am a passionate developer dedicated to building scalable and high-performance 
 ### 🛠 Tech Stack
 
 <div>
-  <div width="96" align="center">
+  <span width="96" align="center">
     <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="html" />
     <p>HTML</p>
-  </div>
+  </span>
 
-  <div width="96" align="center">
+  <span width="96" align="center">
     <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
     <p>CSS</p>
-  </div>
+  </span>
   
-  <div width="96" align="center">
+  <span width="96" align="center">
     <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
     <p>ReactJs</p>
-  </div>
+  </span>
 
   
 </div>
