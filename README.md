@@ -16,7 +16,7 @@ I am a passionate developer dedicated to building scalable and high-performance 
 ### 🛠 Technologies & Tools
 
 ## Front End
-<table style="border: none;">
+<table border="0" frame="void" rules="none">
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
