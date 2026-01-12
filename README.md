@@ -47,10 +47,6 @@ I am a passionate developer dedicated to building scalable and high-performance 
       <img src="https://skillicons.dev/icons?i=redux" width="40" height="40" alt="Redux" />
       <br>Redux
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" />
-      <br>Next.js
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -125,6 +121,10 @@ I am a passionate developer dedicated to building scalable and high-performance 
 ## I am learning
 <table border="0" frame="void" rules="none">
   <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" />
+      <br>Next.js
+    </td>
     <td align="center" width="96" style="border: none;">
       <img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" />
       <br>Docker
