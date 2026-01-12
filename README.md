@@ -14,47 +14,48 @@ I am a passionate developer dedicated to building scalable and high-performance 
 ---
 
 ### 🛠 Technologies & Tools
+
 ## Front End
-<table style="border-collapse: collapse; border: none;">
+<table style="border: none;">
   <tr>
-    <td align="center" width="96" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="html" />
-      <br>html
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
+      <br>HTML5
     </td>
-    <td align="center" width="96" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
-      <br>css
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3" />
+      <br>CSS3
     </td>
-    <td align="center" width="96" style="border: none;">
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap" />
-      <br>Tailwind
+      <br>Bootstrap
     </td>
-    <td align="center" width="96" style="border: none;">
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" />
       <br>Tailwind
     </td>
-    <td align="center" width="96" style="border: none;">
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" />
       <br>JavaScript
     </td>
-    <td align="center" width="96" style="border: none;">
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
       <br>React
     </td>
-    <td align="center" width="96" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=redux" width="40" height="40" alt="redux" />
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redux" width="40" height="40" alt="Redux" />
       <br>Redux
     </td>
-    <td align="center" width="96" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="nextjs" />
-      <br>NextJs
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" />
+      <br>Next.js
     </td>
-    <td align="center" width="96" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=vue" width="40" height="40" alt="vue" />
-      <br>VueJs
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vue" width="40" height="40" alt="Vue.js" />
+      <br>Vue.js
     </td>
-    <td align="center" width="96" style="border: none;">
-      <img src="https://skillicons.dev/icons?i=pinia" width="40" height="40" alt="pinia" />
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=pinia" width="40" height="40" alt="Pinia" />
       <br>Pinia
     </td>
   </tr>
