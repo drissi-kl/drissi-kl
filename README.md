@@ -170,3 +170,5 @@ I am a passionate developer dedicated to building scalable and high-performance 
 
 ---
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=drissi-kl&theme=github)
+
