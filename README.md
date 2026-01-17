@@ -141,6 +141,10 @@ I am a passionate developer dedicated to building scalable and high-performance 
       <img src="https://skillicons.dev/icons?i=nginx" width="40" height="40" alt="nginx" />
       <br>NginX
     </td>
+    <td align="center" width="96" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=wordpress" width="40" height="40" alt="wordpress" />
+      <br>WordPress
+    </td>
   </tr>
 </table> 
 
@@ -170,5 +174,4 @@ I am a passionate developer dedicated to building scalable and high-performance 
 
 ---
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=drissi-kl&theme=github)
 
